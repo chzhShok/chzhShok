@@ -1,6 +1,6 @@
-## Hi! I`m Eva
+## Hi! I`m Eva 🤍
 
-## my stack
+## 💫 my stack
 <img align="right" alt="GIF" src="img/technology.gif" width="360px"/>
 
 ### `languages`
@@ -55,7 +55,7 @@
        style="border: none;">
 </a>
 
-## some stats
+## 👾 some stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 width=550 align="center" src="https://github-readme-stats.vercel.app/api?username=chzhShok&hide=prs,contribs&show_icons=true&theme=material-palenight&rank_icon=github" />
