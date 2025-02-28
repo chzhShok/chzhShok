@@ -7,6 +7,8 @@
 # Hi! I`m Eva
 
 ## my stack
+<img align="right" alt="GIF" src="img/connecting.gif" width="360px"/>
+
 ### `languages`
 <a href="https://www.python.org" target="_blank">
   <img alt="Static Badge" 
