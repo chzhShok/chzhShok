@@ -19,6 +19,9 @@
        src="https://img.shields.io/badge/C%2B%2B-%2300599C?logo=C%2B%2B&logoColor=white" 
        style="border: none;">
 </a>
+<img alt="Static Badge" 
+     src="https://img.shields.io/badge/Assembly-gray" 
+     style="border: none;">
 
 
 ### `data engineering`
